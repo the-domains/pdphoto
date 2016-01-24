@@ -1,0 +1,13 @@
+layout_spectrum: 0.421147
+color:
+  saturation: 0.6838521
+  brandStrength: 0.431855
+  lightness: 0.2086518
+  brandColors:
+    - '#030303'
+    - '#FDFDFD'
+    - '#BDBDBD'
+    - '#888888'
+  rhythmicContrast: 0.9362543
+typography_spectrum: 0.125448
+name: PDPhoto
